@@ -1,0 +1,12 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.bg-custom {
+    background-color: #E9ECEF;
+}
+
+.button-custom {
+    width: 120px;
+}
